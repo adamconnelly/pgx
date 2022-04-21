@@ -19,4 +19,4 @@ require (
 	gopkg.in/inconshreveable/log15.v2 v2.0.0-20180818164646-67afb5ed74ec
 )
 
-replace github.com/jackc/pgconn => github.com/adamconnelly/pgconn v1.7.1-0.20220421140433-0110b95cf3d5
+replace github.com/jackc/pgconn => github.com/adamconnelly/pgconn v1.7.1-0.20220421150955-fea3a2d27874
